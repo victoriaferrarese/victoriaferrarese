@@ -11,8 +11,8 @@
 ***
 
 ### No momento ...
-🖥️ Estudando JavaScript <br>
-🇺🇲 Cursando o _CS50_
+* Estudando JavaScript <br>
+* Cursando o _CS50_
 
 ***
   <a href="https://instagram.com/_vickfeh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
