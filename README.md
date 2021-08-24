@@ -7,6 +7,7 @@
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaferrarese&layout=compact&langs_count=7&theme=calm"/>
 </div>
+<img align="center" alt="wall.e" height="30" width="40" src="https://discord.com/channels/722954651065909319/726674319815475261/879872815245971516">
 
 ***
 
