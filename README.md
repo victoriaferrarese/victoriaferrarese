@@ -1,11 +1,11 @@
 
 <div style="display: inline_block" align=center>
-<a href="https://github.com/victoriaferrarese"><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
-<img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> <br>
- </div>
+<a href="https://github.com/victoriaferrarese"><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href="https://github.com/victoriaferrarese"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="https://github.com/victoriaferrarese"><img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a> <br>
+</div>
 <div>
-<img height="150em" width=400em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaferrarese&layout=compact&langs_count=7&theme=calm"/>
+<a href="https://github.com/victoriaferrarese"><img height="150em" width=400em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaferrarese&layout=compact&langs_count=7&theme=calm"/></a>
 <img align=right src="https://user-images.githubusercontent.com/89160221/130704256-d446fa2b-b38c-478f-9819-b77185b3ff04.gif" >
 </div>
 
