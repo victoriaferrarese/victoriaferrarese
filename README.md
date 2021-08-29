@@ -18,8 +18,8 @@
 🤝 Aceitando dicas sobre a carreira de programadora.
 
 ## No momento ...
- ✍️ Estudando JavaScript <br>
- ✍️ Cursando o _CS50_
+ ✍️ Cursando o _**CS50x**_ (Harvard) <br>
+ ✍️ Estudando JavaScript
 
 ***
  <div align=center >
