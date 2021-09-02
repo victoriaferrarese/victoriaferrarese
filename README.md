@@ -5,7 +5,7 @@
 <a href="https://github.com/victoriaferrarese"><img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a> <br>
 </div>
 <div>
-<a href="https://github.com/victoriaferrarese"><img height="150em" width=400em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaferrarese&layout=compact&langs_count=7&theme=calm"/></a>
+<a href="https://github.com/victoriaferrarese"><img height="150em" width=400em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaferrarese&layout=compact&langs_count=7&theme=nord"/></a>
 <a href="https://github.com/victoriaferrarese"><img align=right src="https://user-images.githubusercontent.com/89160221/130704256-d446fa2b-b38c-478f-9819-b77185b3ff04.gif"></a> 
 </div>
 
