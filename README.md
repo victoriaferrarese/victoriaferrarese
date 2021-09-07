@@ -16,7 +16,7 @@
 :octocat: Nova aqui no Github. <br>
 🌎 Estudante de idiomas. <br>
 🤝 Aceitando dicas sobre a carreira de programadora. <br>
-🩹 Hey, I need help with my code, could you <a href=https://github.com/victoriaferrarese/cs50x_2021>_help_</a> me?
+🩹 Hey, I need help with my code, could you <a href=https://github.com/victoriaferrarese/cs50x_2021/blob/main/README.md>_help_</a> me?
 
 ## No momento ...
  ✍️ Cursando o _**CS50x**_ (Harvard) <br>
