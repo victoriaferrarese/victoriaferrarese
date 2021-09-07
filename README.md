@@ -15,7 +15,8 @@
 🔎 Na procura de um estágio para adquirir mais experiências na área. <br>
 :octocat: Nova aqui no Github. <br>
 🌎 Estudante de idiomas. <br>
-🤝 Aceitando dicas sobre a carreira de programadora.
+🤝 Aceitando dicas sobre a carreira de programadora. <br>
+🩹 Hey, I need help with my code, could you <a href=https://github.com/victoriaferrarese/cs50x_2021>_help_</a> me?
 
 ## No momento ...
  ✍️ Cursando o _**CS50x**_ (Harvard) <br>
