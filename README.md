@@ -10,17 +10,17 @@
 </div>
 
 
-## Sobre mim ...
-📚 Futura estudante de ciência da computação. <br>
-🔎 Na procura de um estágio para adquirir mais experiências na área. <br>
-:octocat: Nova aqui no Github. <br>
-🌎 Estudante de idiomas. <br>
-🤝 Aceitando dicas sobre a carreira de programadora. <br>
+## About me  ...
+📚 Future computer science student. <br>
+🔎 Looking for a job. <br>
+:octocat: New here on Github. <br>
+🌎 Lenguanges students. <br>
+🤝 All programmer carrer's tips are welcome. <br>
 🩹 Hey, I need help with my code, could you <a href=https://github.com/victoriaferrarese/cs50x_2021/blob/main/README.md>_help_</a> me?
 
-## No momento ...
- ✍️ Cursando o _**CS50x**_ (Harvard) <br>
- ✍️ Estudando JavaScript
+## Currently ...
+ ✍️ Doing  _**CS50x**_  course (Harvard) <br>
+ ✍️ Studying JavaScript
 
 ***
  <div align=center >
