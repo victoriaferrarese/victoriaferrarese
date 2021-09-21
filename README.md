@@ -13,7 +13,7 @@
 ## About me  ...
 📚 Future computer science student. <br>
 🔎 Looking for a job. <br>
-:octocat: New here on Github. <br>
+:octocat: New on Github. <br>
 🌎 Lenguanges students. <br>
 🤝 All programmer carrer's tips are welcome. <br>
 🩹 Hey, I need help with my code, could you <a href=https://github.com/victoriaferrarese/cs50x_2021/blob/main/README.md>_help_</a> me?
