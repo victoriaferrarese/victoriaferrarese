@@ -2,7 +2,7 @@
 <div style="display: inline_block" align=center>
 <a href="https://github.com/victoriaferrarese"><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/victoriaferrarese"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-<a href="https://github.com/victoriaferrarese"><img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a> <br>
+<br>
 </div>
 <div>
 <a href="https://github.com/victoriaferrarese"><img height="150em" width=400em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaferrarese&layout=compact&langs_count=7&theme=nord"></a>
@@ -20,7 +20,6 @@
 
 ## Currently ...
  ✍️ Doing  _**CS50x**_  course (Harvard) <br>
- ✍️ Studying JavaScript
 
 ***
  <div align=center >
