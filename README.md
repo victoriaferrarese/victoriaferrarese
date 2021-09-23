@@ -2,6 +2,7 @@
 <div style="display: inline_block" align=center>
 <a href="https://github.com/victoriaferrarese"><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href="https://github.com/victoriaferrarese"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a  href="https://github.com/victoriaferrarese"><img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
 <br>
 </div>
 <div>
