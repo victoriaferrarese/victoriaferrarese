@@ -12,7 +12,7 @@
 
 
 ## About me  ...
-📚 Future computer science student. <br>
+📚 Computer science student. <br>
 🔎 Looking for a job. <br>
 :octocat: New on Github. <br>
 🌎 Languanges students. <br>
