@@ -14,13 +14,12 @@
 ## About me  ...
 📚 Computer science student. <br>
 🔎 Looking for a job. <br>
-:octocat: New on Github. <br>
 🌎 Languanges students. <br>
 🤝 All programmer carrer's tips are welcome. <br>
-🩹 Hey, I need help with my code, could you <a href=https://github.com/victoriaferrarese/cs50x_2021/blob/main/README.md>_help_</a> me?
 
 ## Currently ...
  ✍️ Doing  _**CS50x**_  course (Harvard) <br>
+ ✍️ Domino (College project) <br>
 
 ***
  <div align=center >
