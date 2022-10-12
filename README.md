@@ -13,7 +13,6 @@
 
 ## About me  ...
 📚 Computer science student. <br>
-🔎 Looking for a job. <br>
 🌎 Languanges student. <br>
 🤝 All programmer carrer's tips are welcome. <br>
 
