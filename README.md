@@ -18,7 +18,7 @@
 🤝 All programmer carrer's tips are welcome. <br>
 
 ## Currently ...
- ✍️ Doing  _**CS50x**_  course (Harvard) <br>
+ ✍️ Jogo da Forca em C (Alura) <br>
  ✍️ Domino (College project) <br>
 
 ***
