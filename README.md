@@ -17,7 +17,7 @@
 🤝 All programmer carrer's tips are welcome. <br>
 
 ## Currently ...
- ✍️ Jogo da Forca em C (Alura) <br>
+ ✍️ Studying C <br>
  ✍️ Domino (College project) <br>
 
 ***
