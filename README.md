@@ -18,7 +18,7 @@
 
 ## Currently ...
  ✍️ Studying C <br>
- ✍️ Domino (College project) <br>
+ ✍️ PacMan (Alura) <br>
 
 ***
  <div align=center >
