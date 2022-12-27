@@ -18,7 +18,6 @@
 
 ## Currently ...
  ✍️ Studying C <br>
- ✍️ PacMan (Alura) <br>
 
 ***
  <div align=center >
