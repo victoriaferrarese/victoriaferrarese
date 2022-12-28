@@ -18,6 +18,7 @@
 
 ## Currently ...
  ✍️ Studying C <br>
+ ✍️ Jogo Da Vida (repositório: projetos_PUC-SP)
 
 ***
  <div align=center >
