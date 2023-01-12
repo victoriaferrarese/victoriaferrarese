@@ -17,8 +17,8 @@
 🤝 All programmer carrer's tips are welcome. <br>
 
 ## Currently ...
- ✍️ Studying C <br>
- ✍️ Jogo Da Vida (repositório: projetos_PUC-SP)
+ ✍️ Studying Java <br>
+ 
 
 ***
  <div align=center >
