@@ -20,6 +20,7 @@
 
 ## Currently ...
  ✍️ Studying Java <br>
+ ✍️ Jogo de Dominó em C (repositório: Projetos_PUC-SP)
  
 
 ***
